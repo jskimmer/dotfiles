@@ -1,0 +1,14 @@
+# Object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+
+# Dynamic Libraries
+*.dylib
+*.dll
+
+# Folder
+.DS_Store
